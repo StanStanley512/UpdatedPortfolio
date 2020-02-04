@@ -1,11 +1,11 @@
-#landing{
+/* #landing{
     height: 100%;
     background-image: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/castle.JPG?raw=true');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-};
+}; */
 
 .parallax {
     position:relative;
@@ -27,7 +27,7 @@
   }
 
   #trans2 {
-    background: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/prague.JPG?raw=true') no-repeat center center fixed;
+    background: url('https://github.com/StanStanley512/UpdatedPortfolio/blob/master/prague.JPG') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
