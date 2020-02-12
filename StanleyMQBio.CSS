@@ -10,10 +10,9 @@
 .parallax {
     position:relative;
     z-index:1;
-    height:650px;
-    /* -webkit-box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
+    -webkit-box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
   -moz-box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
-  box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75); */
+  box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
   }
 
   #trans1 {
@@ -32,7 +31,6 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height:625px;
   }
 
  @media screen and (max-width: 980px) {
