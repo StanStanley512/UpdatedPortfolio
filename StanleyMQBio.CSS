@@ -17,7 +17,7 @@
 
 #trans1 {
     background: url('https://github.com/StanStanley512/MediaQueryResponsive/blob/master/castle.JPG?raw=true') no-repeat fixed;
-    height:575px;
+    height: 425px;
     background-position: center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -35,6 +35,10 @@
 
 #contact {
     color: white;
+}
+
+.container {
+
 }
 
 @media screen and (max-width: 980px) {
