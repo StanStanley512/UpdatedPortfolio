@@ -38,7 +38,16 @@
 }
 
 .container {
+    position: relative;
+    padding: none;
+    margin: none;
+    background-size: cover;
+}
 
+.container-fluid {
+  padding: none;
+  margin: none;
+  background-color: black;
 }
 
 @media screen and (max-width: 980px) {
