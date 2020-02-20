@@ -7,8 +7,8 @@
  */
 
  nav ul a {
-    color: #595959;
-    background-color: #fff;
+    color: rgb(38, 163, 212);
+    background-color: black;
   }
   
   #nav-mobile {
@@ -23,8 +23,7 @@
   }
   
   nav .brand-logo {
-    color: #595959;
-    background-color: #ffffff;
+    color: rgb(38, 163, 212);
   }
   
   p {
@@ -38,12 +37,23 @@
   .parallax-container {
     min-height: 380px;
     line-height: 0;
-    height: auto;
+    height: cover;
     color: rgb(255, 255, 255);
   }
     .parallax-container .section {
       width: 100%;
     }
+#top-header {
+    background-image: url(https://www.kcet.org/sites/kl/files/styles/kl_image_article_hero/public/thumbnails/image/35742168132_b96f304835_k.jpg?itok=LEfyvV_U);
+    max-height: 500px;
+}
+
+#bottom-para {
+    background-image: url(https://lh3.googleusercontent.com/proxy/12ko4MRYDewrmHj1UCgQpeuGjQ-xWruH6qBMzmNV-7k5WQ_S-1YtT6Pj-WyJEnxSWBuLzY95DRxNAa8xDN0BFILXOVvDg4ImDtcUjEECH4QjEmE-02S5fwN_WbyoXKKU);
+    max-height: 500px;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
   
   @media only screen and (max-width : 992px) {
     .parallax-container .section {
