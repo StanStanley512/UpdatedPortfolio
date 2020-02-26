@@ -49,12 +49,17 @@
 }
 
 #bottom-para {
-    background-image: url(https://lh3.googleusercontent.com/proxy/12ko4MRYDewrmHj1UCgQpeuGjQ-xWruH6qBMzmNV-7k5WQ_S-1YtT6Pj-WyJEnxSWBuLzY95DRxNAa8xDN0BFILXOVvDg4ImDtcUjEECH4QjEmE-02S5fwN_WbyoXKKU);
+    background-image: url(https://github.com/StanStanley512/UpdatedPortfolio/blob/master/images/big_bend.jpg?raw=true);
     max-height: 500px;
     background-repeat:no-repeat;
     background-size: cover;
 }
-  
+
+#index-banner {
+    align-content: center;
+    padding-top: 60px;
+}
+
   @media only screen and (max-width : 992px) {
     .parallax-container .section {
       position: absolute;
